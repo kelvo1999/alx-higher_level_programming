@@ -1,4 +1,5 @@
 # Python - More Data Structures: Set, Dictionary
+# TBH python is cool but tricky
 
 In this project, I learned about sets and dictionaries in Python. I practiced using them
 with the `lambda`, `map`, `filter`, and `reduce` methods.
